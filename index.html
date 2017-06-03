@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>LC Code Challenge</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="style/stylesheet.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="http://cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.min.js"></script>
+  </head>
+
+  <body>
+    <div class="main-content">
+      <nav class="navbar navbar-inverse">
+        <div class="container-fluid">
+          <h2 class="gameName">HEADER</h2>
+        </div>
+      </nav>
+
+      <div class="intro-form page">
+
+      </div>
+
+      <div class="loading-page page" style='display: none'>
+        <div class="container-fluid text-center">
+          <div class="well"><img src="assets/images/loader.svg" /></div>
+        </div>
+      </div>
+
+      <div class="game-board page" style='display: none'>
+
+      </div>
+
+      <div class="error-page page" style='display: none'>
+        <p>Nice try.</p>
+      </div>
+    </div>
+
+    <script>
+        $(".intro-form").load("parameter_form.html");
+        $(".game-board").load("board_game.html");
+    </script>
+    <script type="text/javascript" src="scripts/player.js"></script>
+    <script src="scripts/boardGeneration.js"></script>
+    <script src="scripts/initialization.js"></script>
+    <script type="text/javascript" src="scripts/game.js"></script>
+  </body>
+</html>
