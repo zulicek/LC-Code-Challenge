@@ -28,6 +28,7 @@
     .board {
         width: 90%;
         height: 100%;
+        background-image: url('../assets/images/background.png')
     }
     
 
@@ -77,6 +78,7 @@
     -o-background-size: contain;
     background-size: contain;
     border-radius: 50%; 
+      pointer-events: none;
 }
 
 .btn-modal {
@@ -107,6 +109,22 @@
     -o-background-size: contain;
     background-size: contain;
     border-radius: 50%; 
+    pointer-events: none;
+}
+
+#cubeButton {
+    width:100px; 
+    height:100px;
+    margin-right:5px; 
+    margin-bottom:5px;
+    background-color:white;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    font-size: 35px;
 }
 
 

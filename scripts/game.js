@@ -28,6 +28,7 @@ function submitAnswer() {
         
     changeTurn()
 
+
     //console.log(document.getElementById("answer").value);
 }
 
@@ -54,11 +55,12 @@ function getQuestion(buttonID) {
 
 //dok kliknem na kocku zove se ova funkcija
 function setNewPosition() {
-    cubeNumber = getRandom(1,10);
-    console.log(cubeNumber);
+    cubeNumber = getRandom(1,6);
+
+    var cubeButton = document.getElementById("cubeButton");
+    cubeButton.innerHTML = cubeNumber;
 
     findNewPosition(players[turn].positionRow, players[turn].positionColumn);
-    console.log(newPosition[0] + " " +newPosition[1])
 
     var questionObj = getQuestion(newPosition[0] + "-" +  newPosition[1]);
     $("#question").text(questionObj.question);

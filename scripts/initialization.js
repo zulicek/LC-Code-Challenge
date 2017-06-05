@@ -58,7 +58,7 @@ $(function() {
 	Handlebars.registerHelper("button", function(row, col, context) {
 		return new Handlebars.SafeString(
 				"<input type='button' id='" + 
-					row + "-" + col + "'  class='btn-box' onclick='setNewPosition()'/>" 
+					row + "-" + col + "'  class='btn-box'/>" 
 //					" data-toggle='modal' data-target='#myModal' />"
 			);
 	});

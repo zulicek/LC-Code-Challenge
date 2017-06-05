@@ -28,6 +28,7 @@ function parseInput() {
 			generateBoard(json);
 			makePath();
 			makePlayers();
+			addCube()
 		})
 		.fail(function(json) {
 			alert("Server dieded :(");
@@ -130,4 +131,17 @@ function makePlayers(){
   	 		players[i].addPlayerButton(i);
   	 }
   }
+
+function addCube(){
+	var cubeButton = document.createElement('button');
+
+	cubeButton.setAttribute("id", "cubeButton");
+	cubeButton.innerHTML = "1";
+
+	cubeButton.setAttribute('onclick','setNewPosition();'); // for FF
+    cubeButton.onclick = function() {setNewPosition();};
+
+  	var foo = document.getElementById("cube");  
+ 	foo.appendChild(cubeButton);
+}
 

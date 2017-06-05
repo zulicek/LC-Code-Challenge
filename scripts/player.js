@@ -18,8 +18,7 @@ Player.prototype.addPlayerButton = function(i) {
 };
 
 function setColor(number) {
-	var color ='#'+(Math.random()*0xFFFFFF<<0).toString(16);
-	//document.getElementById("player"+number").color = color;
+	var color ='#'+(Math.random()*0xEEEEEE<<0).toString(16);
 	return color;
 };
 
