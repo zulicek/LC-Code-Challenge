@@ -44,7 +44,6 @@ $(function() {
 		clear();
 		$('.game-board').show();
 
-		makeBoard();
 	}
 
 	function renderErrorPage() {

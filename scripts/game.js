@@ -4,33 +4,17 @@ var clickedButton; //npr 04, 12
 
 var bluePoints = 0;
 var greenPoints = 0;
-var turn ="blue";
+var turn =0;
 
 function submitAnswer() {
+    activePlayer = players[turn];
     
     $("#"+clickedButton).css ({
-        backgroundColor: "#c4ffc9",
+        backgroundColor: activePlayer.color,
         pointerEvents: "none"
     });
     
-    checkBug(clickedButton);
-    
-    if (turn == "blue"){
-        bluePoints++;
-        $("#blueP").html(bluePoints);
-        changeTurn(turn);
-    }
-    else {
-        greenPoints++;
-        $("#greenP").html(greenPoints);
-        changeTurn(turn);
-    }
-
-    boxes--;
-    if (boxes == 0) {
-        gameOver();
-    }
-    
+    changeTurn()
     console.log(document.getElementById("answer").value);
 }
 
@@ -48,14 +32,14 @@ function wrongAnswer() {
 
 function changeTurn(){
     
-    if (turn == "blue"){
-        turn = "green";
-        $("#greenTeamId").toggleClass("greenActive").toggleClass("notActive");;
-        $("#blueTeamId").toggleClass("blueActive").toggleClass("notActive");
+    if (turn == numberOfPlayers-1){
+        $("#player"+turn).toggleClass("active");
+        turn = 0;
+        $("#player"+turn).toggleClass("active");
     } else {
-        turn = "blue";
-        $("#greenTeamId").toggleClass("greenActive").toggleClass("notActive");
-        $("#blueTeamId").toggleClass("blueActive").toggleClass("notActive");
+        $("#player"+turn).toggleClass("active");
+        turn += 1;
+        $("#player"+turn).toggleClass("active");
     }
 }
 
@@ -65,13 +49,6 @@ function getQuestion(buttonID) {
     var x = parseInt(fields[0]),
         y = parseInt(fields[1]);
     return JSON.parse(localStorage.grid)[x][y];
-}
-
-function checkBug(buttonID) {
-    var questionObj = getQuestion(buttonID);
-    if(questionObj.hasBug){
-        document.getElementById(clickedButton).style.backgroundImage = "url('assets/images/ladybug.png')";
-    }
 }
 
 

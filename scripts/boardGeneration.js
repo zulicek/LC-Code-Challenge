@@ -1,6 +1,9 @@
 var noRows = 12;
 var noColumns = 23;
-var numberOfPlayers = localStorage["numberOfPlayers"];
+var numberOfPlayers;
+var classNumber;
+var unityNumber;
+var players = [];
 
 
 function parseInput() {
@@ -23,10 +26,13 @@ function parseInput() {
 	})
 		.success(function(json) {
 			generateBoard(json);
+			makePath();
+			makePlayers();
 		})
 		.fail(function(json) {
 			alert("Server dieded :(");
 		});
+
 }
 
 function shuffle(array) {
@@ -56,9 +62,9 @@ function create2DArray(rows, columns) {
 
 function generateBoard(json) {
 	var questions = json;
-	var numberOfPlayers = localStorage["numberOfPlayers"];
-	var classNumber = localStorage["classNumber"];
-	var unityNumber = localStorage["unityNumber"];
+	numberOfPlayers = localStorage["numberOfPlayers"];
+	classNumber = localStorage["classNumber"];
+	unityNumber = localStorage["unityNumber"];
 	var rows = noRows;
 	var cols = noColumns;
 
@@ -75,9 +81,12 @@ function generateBoard(json) {
 
 	var template_script = $("#board-temp").html();
 	var template = Handlebars.compile(template_script);
+	//$("#players").html(template(players));
 	$(".game-board").html(template(array));
 	localStorage.setItem("grid", JSON.stringify(array));
 	window.location.hash = '#board';
+
+
 
 	
 }
@@ -93,24 +102,13 @@ $(function() {
 })
 
 
-function makeBoard() {
-	makePath();
-	makePlayers();
-}
-
 
 function makePath(){
 
-    for (var i = 0; i < 12; i++) {
-        for (var j = 0; j < 23; j++) {
-            if (i == 0 && j > 6) removeButton(i,j);
-            if ((i > 0 && i < 4) && j != 6) removeButton(i,j);
-            if (i == 4 && (j < 6 || j > 10)) removeButton(i,j);
-            if ((i > 4 && i < 7)  && j != 10) removeButton(i,j);
-            if (i == 7 && (j < 10 || j > 16)) removeButton(i,j);
-            if ((i > 7 && i < 10)  && j != 16) removeButton(i,j);
-            if (i == 10 && (j < 16 || j > 21)) removeButton(i,j);
-            if (i > 10 && j < 21 ) removeButton(i,j);
+    for (var i = 1; i < noRows-1; i++) {
+        for (var j = 1; j < noColumns-1; j++) {
+           removeButton(i,j);
+    
         }
     }
 }
@@ -125,13 +123,13 @@ function removeButton(row,col){
 
   }
 
-var players = [];
-
 function makePlayers(){
+
+	console.log(numberOfPlayers);
 
   	 for (var i = 0; i < numberOfPlayers; i++){
   	 		players[i] = new Player(i);
-  	 		players[i].addPlayerButton();
+  	 		players[i].addPlayerButton(i);
   	 }
   }
 

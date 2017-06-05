@@ -36,16 +36,10 @@
     font-size: medium;
 }
 
-.blueActive {
-    background-color: #bad5ff;
-    font-size: x-large;
+.active {
+    background-color: red;
 }
 
-
-.notActive {
-    background-color : transparent;
-    font-size: medium;
-}
     /* Set black background color, white text and some padding */
     footer {
         background-color: #d3e6dc;
@@ -98,6 +92,21 @@
 
 .modal-body{
     font-size:300%;
+}
+
+.playerButtons {
+   width:60px; 
+    height:60px;
+    margin-right:5px; 
+    margin-bottom:5px;
+    padding: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+    border-radius: 50%; 
 }
 
 

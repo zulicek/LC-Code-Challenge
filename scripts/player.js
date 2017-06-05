@@ -24,12 +24,13 @@ Player.prototype.setScore = function(points) {
 };
 
 
-Player.prototype.addPlayerButton = function() {
-	var playerButton = document.createElement("button");
-	playerButton.type = "button";
-	playerButton.setAttribute("background-color", this.color);
+Player.prototype.addPlayerButton = function(i) {
+	var playerButton = document.createElement('button');
 
-  	var foo = document.getElementById("blueTeamId");  
+	playerButton.setAttribute("class", "playerButtons");
+	playerButton.setAttribute("style", "background-color:"+this.color);
+
+  	var foo = document.getElementById("players");  
  	foo.appendChild(playerButton);
 };
 
