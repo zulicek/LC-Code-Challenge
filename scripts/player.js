@@ -2,27 +2,10 @@
 function Player(number) {
 	this.number = number;
 	this.positionRow = 0;
-	this.positionColumn = 0;
+	this.positionColumn = -1;
 	this.score = 0;
 	this.color = setColor(this.number);
 }
-
-Player.prototype.setPositionRow = function(row) {
-	this.positionRow = row;
-};
-
-Player.prototype.setPositionColumn = function(column) {
-	this.positionColumn = column;
-};
-
-Player.prototype.getScore = function() {
-	return this.score;
-};
-
-Player.prototype.setScore = function(points) {
-	this.score += points;
-};
-
 
 Player.prototype.addPlayerButton = function(i) {
 	var playerButton = document.createElement('button');

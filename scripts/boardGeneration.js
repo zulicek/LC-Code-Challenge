@@ -69,7 +69,6 @@ function generateBoard(json) {
 	var cols = noColumns;
 
 	var quest = shuffle(questions["1"]);
-	console.log(quest);
 
 	var array = create2DArray(rows, cols);
 
@@ -81,7 +80,6 @@ function generateBoard(json) {
 
 	var template_script = $("#board-temp").html();
 	var template = Handlebars.compile(template_script);
-	//$("#players").html(template(players));
 	$(".game-board").html(template(array));
 	localStorage.setItem("grid", JSON.stringify(array));
 	window.location.hash = '#board';

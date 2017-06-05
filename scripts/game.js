@@ -1,33 +1,34 @@
 
-var boxes = 23*12;;
-var clickedButton; //npr 04, 12
-
-var bluePoints = 0;
-var greenPoints = 0;
+var newPosition = [];
 var turn =0;
+var cubeNumber = 6;
+var answeredQuestions = create2DArray(noRows,noColumns);
+var tocan = 1;
+
 
 function submitAnswer() {
-    activePlayer = players[turn];
-    
-    $("#"+clickedButton).css ({
-        backgroundColor: activePlayer.color,
-        pointerEvents: "none"
-    });
-    
+
+
+    if (tocan) { 
+
+        players[turn].positionRow = newPosition[0];
+        players[turn].positionColumn = newPosition[1];
+        players[turn].score++;
+
+        var colorButton = newPosition[0] + "-" +  newPosition[1];
+        
+        $("#"+colorButton).css ({
+            backgroundColor: players[turn].color,
+            pointerEvents: "none"
+        });
+
+        answeredQuestions[newPosition[0]][newPosition[1]] = 1;
+
+    }
+        
     changeTurn()
-    console.log(document.getElementById("answer").value);
-}
 
-
-function wrongAnswer() {
-    if (turn == "blue") {
-        $("#blueP").html(bluePoints);
-        changeTurn(turn);
-    }
-    else {
-        $("#greenP").html(greenPoints);
-        changeTurn(turn);
-    }
+    //console.log(document.getElementById("answer").value);
 }
 
 function changeTurn(){
@@ -51,16 +52,135 @@ function getQuestion(buttonID) {
     return JSON.parse(localStorage.grid)[x][y];
 }
 
+//dok kliknem na kocku zove se ova funkcija
+function setNewPosition() {
+    cubeNumber = getRandom(1,10);
+    console.log(cubeNumber);
 
-function setIdClickedButton(buttonID) {
-    clickedButton = buttonID;
-    var questionObj = getQuestion(clickedButton);
+    findNewPosition(players[turn].positionRow, players[turn].positionColumn);
+    console.log(newPosition[0] + " " +newPosition[1])
+
+    var questionObj = getQuestion(newPosition[0] + "-" +  newPosition[1]);
     $("#question").text(questionObj.question);
-    console.log(buttonID);
+     $('#myModal').modal('show');
+}
+
+
+function findNewPosition(currentRow, currentColumn) {
+    if (currentRow == 0) {
+        if ((currentColumn + cubeNumber) >= noColumns) newPosition = angle1(currentRow,currentColumn);
+        else {
+            newPosition[0] = currentRow;
+            newPosition[1] = currentColumn + cubeNumber;
+            if (answeredQuestions[newPosition[0]][newPosition[1]] == 1){
+                while (answeredQuestions[newPosition[0]][newPosition[1]] == 1) {
+                    newPosition[1]++;
+                    if (newPosition[1] == noColumns) newPosition = angle1(newPosition[0],newPosition[1]);
+                }
+            }
+        }
+    }
+
+    else if (currentColumn == noColumns-1){
+        if ((currentRow + cubeNumber) >= noRows) newPosition = angle2(currentRow,currentColumn);
+        else {
+            newPosition[0] = currentRow + cubeNumber;
+            newPosition[1] = currentColumn;
+
+            if (answeredQuestions[newPosition[0]][newPosition[1]] == 1){
+                while (answeredQuestions[newPosition[0]][newPosition[1]] == 1) {
+                    newPosition[0]++;
+                    if (newPosition[0] == noRows) newPosition = angle2(newPosition[0],newPosition[1]);
+                }
+            }
+        }
+    }
+
+    else if (currentRow == noRows-1) {
+        if (cubeNumber > currentColumn) newPosition = angle3(currentRow, currentColumn); 
+        else {
+            newPosition[0] = noRows - 1;
+            newPosition[1] = currentColumn - cubeNumber;
+
+            if (answeredQuestions[newPosition[0]][newPosition[1]] == 1){
+                while (answeredQuestions[newPosition[0]][newPosition[1]] == 1) {
+                    newPosition[1]--;
+                    if (newPosition[0] < 0) newPosition = angle3(0,newPosition[1]);
+                }
+            }
+        }
+    }
+
+    else if (currentColumn == 0){
+        if ((currentRow - cubeNumber) <= 0) gameOver();
+        else {
+            newPosition[0] = currentRow - cubeNumber;
+            newPosition[1] = 0;
+
+            if (answeredQuestions[newPosition[0]][newPosition[1]] == 1){
+                while (answeredQuestions[newPosition[0]][newPosition[1]] == 1) {
+                    newPosition[0]--;
+                    if (newPosition[0] <= 0) gameOver();
+                }
+            }
+        }
+    }
+
+    
+
+}
+
+function angle1(currentRow, currentColumn){
+    var position = [];
+
+    position[0] = cubeNumber - (noColumns - currentColumn -1); 
+    position[1] = noColumns - 1;
+
+    if (answeredQuestions[position[0]][position[1]] == 1){
+            while (answeredQuestions[position[0]][position[1]] == 1) {
+                position[0]++;
+            }
+    }
+
+    return position;
+}
+
+function angle2(currentRow, currentColumn) {
+    var position = [];
+    
+    position[0] = noRows -1;
+    position[1] = noColumns - 1 -(cubeNumber - (noRows -1 - currentRow));
+
+    if (answeredQuestions[position[0]][position[1]] == 1){
+            while (answeredQuestions[position[0]][position[1]] == 1) {
+                position[1]--;
+            }
+    }
+    console.log("Angle2" + position[0] + " " +position[1])
+
+    return position;
+}
+
+function angle3(currentRow, currentColumn) {
+    var position = [];
+    position[0] = noRows - 1 - (cubeNumber - currentColumn);
+    position[1] = 0;
+
+    if (answeredQuestions[position[0]][position[1]] == 1){
+            while (answeredQuestions[position[0]][position[1]] == 1) {
+                position[0]--;
+            }
+    }
+
+    return position;
 }
 
 
 function gameOver(){
     alert("Gotova igra");
+}
+
+function getRandom(min, max) {
+    return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
