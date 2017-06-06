@@ -8,8 +8,11 @@ var tocan = 1;
 
 function submitAnswer() {
 
+    var questionObj = getQuestion(newPosition[0] + "-" +  newPosition[1]);
+    var answer = document.getElementById("answer").value;
 
-    if (tocan) { 
+
+    if (questionObj.answer == answer) { 
 
         players[turn].positionRow = newPosition[0];
         players[turn].positionColumn = newPosition[1];
@@ -26,10 +29,7 @@ function submitAnswer() {
 
     }
         
-    changeTurn()
-
-
-    //console.log(document.getElementById("answer").value);
+    changeTurn();
 }
 
 function changeTurn(){
@@ -66,6 +66,7 @@ function setNewPosition() {
     var questionObj = getQuestion(newPosition[0] + "-" +  newPosition[1]);
     $("#question").text(questionObj.question);
      $('#myModal').modal('show');
+
 }
 
 

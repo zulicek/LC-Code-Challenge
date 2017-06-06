@@ -2,98 +2,82 @@
   "1" : [
     {
       "question": "What isn't round?",
-      "answer": "A square.",
-      "difficulty": 1
+      "answer": "A square."
      },
   
     {
       "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "answer": "A triangle."
     },
     
     {
       "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "answer": "Nothing."
     },
     
     {
       "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "answer": "Windows."
     },
     
     {
       "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "answer": "From fruits."
     },
    
     {
       "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "answer": "University of Zagreb."
     },
 
     {
       "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "answer": "A telephone."
     },
  
     {
       "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "answer": "A circle."
     },
 
     {
       "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "answer": "Nobody."
     },
 
     {
       "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "answer": "Saturn."
     },
 
     {
       "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "answer": "MC Hammer."
     },
 
     {
       "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "answer": "Millionare."
     },
 
     {
       "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "answer": "With great difficulty."
     },
 
     {
       "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
+      "answer": "USA."
     },
  
     {
       "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
+      "answer": "Ring-ding-ding-ding-dingeringeding!"
     },
 
     {
       "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
+      "answer": "The Vikings."
     },
 
     {
