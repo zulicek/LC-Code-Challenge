@@ -70,6 +70,7 @@ function generateBoard(json) {
 	var cols = noColumns;
 
 	var quest = shuffle(questions["1"]);
+	console.log(quest.pop());
 
 	var array = create2DArray(rows, cols);
 

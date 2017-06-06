@@ -28,7 +28,8 @@ function submitAnswer() {
         answeredQuestions[newPosition[0]][newPosition[1]] = 1;
 
     }
-        
+     
+   $("#answer").val(''); 
     changeTurn();
 }
 

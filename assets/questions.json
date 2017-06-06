@@ -1,1997 +1,3447 @@
 {
   "1" : [
     {
-      "question": "What isn't round?",
-      "answer": "A square."
+      "question": "1 + 1",
+      "answer": "2."
      },
   
     {
-      "question": "What does have three points?",
-      "answer": "A triangle."
+      "question": "1+2",
+      "answer": "3"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing."
+      "question": "1+3",
+      "answer": "4"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows."
+      "question": "1+4",
+      "answer": "5"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits."
+      "question": "1+5",
+      "answer": "6"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb."
+      "question": "1+6",
+      "answer": "7"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone."
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle."
+      "question": "2+1",
+      "answer": "3"
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody."
+      "question": "2+2",
+      "answer": "4"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn."
+      "question": "2+3",
+      "answer": "5"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer."
+      "question": "2+4",
+      "answer": "6"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare."
+      "question": "2+5",
+      "answer": "7"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty."
+      "question": "2+8",
+      "answer": "10"
     },
 
     {
-      "question": "Which country is the best?",
-      "answer": "USA."
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!"
+      "question": "3+1",
+      "answer": "4"
     },
 
     {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings."
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Which cookies are the most popular ones?",
-      "answer": "Oreos.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who owns the Facebook?",
-      "answer": "Mark Zuckerberg.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who plants potatoes?",
-      "answer": "A farmer.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Where do people sleep?",
-      "answer": "In a bed.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "3+2",
+      "answer": "5"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "3+3",
+      "answer": "6"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "3+4",
+      "answer": "7"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "3+5",
+      "answer": "8"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "3+6",
+      "answer": "9"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "3+7",
+      "answer": "10"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "4+1",
+      "answer": "5."
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "4+2",
+      "answer": "6"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "4+3",
+      "answer": "7"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "4+4",
+      "answer": "8"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "4+5",
+      "answer": "9"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "4+6",
+      "answer": "10"
     },
 
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
+      "question": "5+1",
+      "answer": "6"
     },
  
     {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
+      "question": "5+2",
+      "answer": "7"
     },
 
     {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
+      "question": "5+3",
+      "answer": "8"
     },
 
     {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
+      "question": "5+4",
+      "answer": "9"
     },
 
     {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "5+5",
+      "answer": "1'"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "6+1",
+      "answer": "7"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "6+2",
+      "answer": "8"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "6+3",
+      "answer": "9"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "6+4",
+      "answer": "10"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "7+1",
+      "answer": "8"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "7+2",
+      "answer": "9"
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "7+3",
+      "answer": "10"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "8+1",
+      "answer": "9"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "8+2",
+      "answer": "10"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "9+1",
+      "answer": "10"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "1+1",
+      "answer": "2"
     },
-
+  
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "1+2",
+      "answer": "3"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "1+3",
+      "answer": "4"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "1+4",
+      "answer": "5"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "1+5",
+      "answer": "6"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "1+6",
+      "answer": "7"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "2+1",
+      "answer": "3"
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "2+2",
+      "answer": "4"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "2+3",
+      "answer": "5"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "2+4",
+      "answer": "6"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "2+5",
+      "answer": "7"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "2+8",
+      "answer": "10"
     },
 
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
+      "question": "3+1",
+      "answer": "4"
     },
 
     {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "3+2",
+      "answer": "5"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "3+3",
+      "answer": "6"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "3+4",
+      "answer": "7"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "3+5",
+      "answer": "8"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "3+6",
+      "answer": "9"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "3+7",
+      "answer": "10"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "4+1",
+      "answer": "5."
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "4+2",
+      "answer": "6"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "4+3",
+      "answer": "7"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "4+4",
+      "answer": "8"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "4+5",
+      "answer": "9"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "4+6",
+      "answer": "10"
     },
 
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
+      "question": "5+1",
+      "answer": "6"
     },
  
     {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
+      "question": "5+2",
+      "answer": "7"
     },
 
     {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
+      "question": "5+3",
+      "answer": "8"
     },
 
     {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
+      "question": "5+4",
+      "answer": "9"
     },
 
     {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "5+5",
+      "answer": "1'"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "6+1",
+      "answer": "7"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "6+2",
+      "answer": "8"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "6+3",
+      "answer": "9"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "6+4",
+      "answer": "10"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "7+1",
+      "answer": "8"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "7+2",
+      "answer": "9"
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "7+3",
+      "answer": "10"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "8+1",
+      "answer": "9"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "8+2",
+      "answer": "10"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "9+1",
+      "answer": "10"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
-    },
-    
-    {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
-    },
-    
-    {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
-    },
-    
-    {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
-    },
-   
-    {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
-    },
-
-    {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
-    },
- 
-    {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
-    },
-    
-    {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
-    },
-    
-    {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
-    },
-    
-    {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
-    },
-   
-    {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
-    },
-
-    {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
-    },
- 
-    {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
-    },
-    
-    {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
-    },
-    
-    {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
-    },
-    
-    {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
-    },
-   
-    {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
-    },
-
-    {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
-    },
- 
-    {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
-    },
-
-    {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What isn't round?",
-      "answer": "A square.",
-      "difficulty": 1
+      "question": "1 + 1",
+      "answer": "2."
      },
   
     {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "1+2",
+      "answer": "3"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "1+3",
+      "answer": "4"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "1+4",
+      "answer": "5"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "1+5",
+      "answer": "6"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "1+6",
+      "answer": "7"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "2+1",
+      "answer": "3"
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "2+2",
+      "answer": "4"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "2+3",
+      "answer": "5"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "2+4",
+      "answer": "6"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "2+5",
+      "answer": "7"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "2+8",
+      "answer": "10"
     },
 
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
+      "question": "3+1",
+      "answer": "4"
     },
 
     {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Which cookies are the most popular ones?",
-      "answer": "Oreos.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who owns the Facebook?",
-      "answer": "Mark Zuckerberg.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who plants potatoes?",
-      "answer": "A farmer.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Where do people sleep?",
-      "answer": "In a bed.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "3+2",
+      "answer": "5"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "3+3",
+      "answer": "6"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "3+4",
+      "answer": "7"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "3+5",
+      "answer": "8"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "3+6",
+      "answer": "9"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "3+7",
+      "answer": "10"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "4+1",
+      "answer": "5."
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "4+2",
+      "answer": "6"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "4+3",
+      "answer": "7"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "4+4",
+      "answer": "8"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "4+5",
+      "answer": "9"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "4+6",
+      "answer": "10"
     },
 
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
+      "question": "5+1",
+      "answer": "6"
     },
  
     {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
+      "question": "5+2",
+      "answer": "7"
     },
 
     {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
+      "question": "5+3",
+      "answer": "8"
     },
 
     {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
+      "question": "5+4",
+      "answer": "9"
     },
 
     {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "5+5",
+      "answer": "1'"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "6+1",
+      "answer": "7"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "6+2",
+      "answer": "8"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "6+3",
+      "answer": "9"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "6+4",
+      "answer": "10"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "7+1",
+      "answer": "8"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "7+2",
+      "answer": "9"
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "7+3",
+      "answer": "10"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "8+1",
+      "answer": "9"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "8+2",
+      "answer": "10"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "9+1",
+      "answer": "10"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "1+1",
+      "answer": "2"
     },
-
+  
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "1+2",
+      "answer": "3"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "1+3",
+      "answer": "4"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "1+4",
+      "answer": "5"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "1+5",
+      "answer": "6"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "1+6",
+      "answer": "7"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "2+1",
+      "answer": "3"
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "2+2",
+      "answer": "4"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "2+3",
+      "answer": "5"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "2+4",
+      "answer": "6"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "2+5",
+      "answer": "7"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "2+8",
+      "answer": "10"
     },
 
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
+      "question": "3+1",
+      "answer": "4"
     },
 
     {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "3+2",
+      "answer": "5"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "3+3",
+      "answer": "6"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "3+4",
+      "answer": "7"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "3+5",
+      "answer": "8"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "3+6",
+      "answer": "9"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "3+7",
+      "answer": "10"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "4+1",
+      "answer": "5."
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "4+2",
+      "answer": "6"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "4+3",
+      "answer": "7"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "4+4",
+      "answer": "8"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "4+5",
+      "answer": "9"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "4+6",
+      "answer": "10"
     },
 
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
+      "question": "5+1",
+      "answer": "6"
     },
  
     {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
+      "question": "5+2",
+      "answer": "7"
     },
 
     {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
+      "question": "5+3",
+      "answer": "8"
     },
 
     {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
+      "question": "5+4",
+      "answer": "9"
     },
 
     {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "5+5",
+      "answer": "1'"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "6+1",
+      "answer": "7"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "6+2",
+      "answer": "8"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "6+3",
+      "answer": "9"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "6+4",
+      "answer": "10"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "7+1",
+      "answer": "8"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "7+2",
+      "answer": "9"
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "7+3",
+      "answer": "10"
     },
 
     {
-      "question": "What isn't round?",
-      "answer": "A square.",
-      "difficulty": 1
+      "question": "8+1",
+      "answer": "9"
+    },
+
+    {
+      "question": "8+2",
+      "answer": "10"
+    },
+
+    {
+      "question": "9+1",
+      "answer": "10"
+    },
+
+     {
+      "question": "1 + 1",
+      "answer": "2."
      },
   
     {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "1+2",
+      "answer": "3"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "1+3",
+      "answer": "4"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "1+4",
+      "answer": "5"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "1+5",
+      "answer": "6"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "1+6",
+      "answer": "7"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "2+1",
+      "answer": "3"
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "2+2",
+      "answer": "4"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "2+3",
+      "answer": "5"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "2+4",
+      "answer": "6"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "2+5",
+      "answer": "7"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "2+8",
+      "answer": "10"
     },
 
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
+      "question": "3+1",
+      "answer": "4"
     },
 
     {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Which cookies are the most popular ones?",
-      "answer": "Oreos.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who owns the Facebook?",
-      "answer": "Mark Zuckerberg.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who plants potatoes?",
-      "answer": "A farmer.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Where do people sleep?",
-      "answer": "In a bed.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "3+2",
+      "answer": "5"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "3+3",
+      "answer": "6"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "3+4",
+      "answer": "7"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "3+5",
+      "answer": "8"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "3+6",
+      "answer": "9"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "3+7",
+      "answer": "10"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "4+1",
+      "answer": "5."
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "4+2",
+      "answer": "6"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "4+3",
+      "answer": "7"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "4+4",
+      "answer": "8"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "4+5",
+      "answer": "9"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "4+6",
+      "answer": "10"
     },
 
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
+      "question": "5+1",
+      "answer": "6"
     },
  
     {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
+      "question": "5+2",
+      "answer": "7"
     },
 
     {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
+      "question": "5+3",
+      "answer": "8"
     },
 
     {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
+      "question": "5+4",
+      "answer": "9"
     },
 
     {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "5+5",
+      "answer": "1'"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "6+1",
+      "answer": "7"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "6+2",
+      "answer": "8"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "6+3",
+      "answer": "9"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "6+4",
+      "answer": "10"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "7+1",
+      "answer": "8"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "7+2",
+      "answer": "9"
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "7+3",
+      "answer": "10"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "8+1",
+      "answer": "9"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "8+2",
+      "answer": "10"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "9+1",
+      "answer": "10"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "1+1",
+      "answer": "2"
     },
-
+  
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "1+2",
+      "answer": "3"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "1+3",
+      "answer": "4"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "1+4",
+      "answer": "5"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "1+5",
+      "answer": "6"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "1+6",
+      "answer": "7"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "2+1",
+      "answer": "3"
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "2+2",
+      "answer": "4"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "2+3",
+      "answer": "5"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "2+4",
+      "answer": "6"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "2+5",
+      "answer": "7"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "2+8",
+      "answer": "10"
     },
 
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
-    },
- 
-    {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
+      "question": "3+1",
+      "answer": "4"
     },
 
     {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
-    },
-
-    {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "3+2",
+      "answer": "5"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "3+3",
+      "answer": "6"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "3+4",
+      "answer": "7"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "3+5",
+      "answer": "8"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "3+6",
+      "answer": "9"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "3+7",
+      "answer": "10"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "4+1",
+      "answer": "5."
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "4+2",
+      "answer": "6"
     },
 
     {
-      "question": "Which planet has a ring?",
-      "answer": "Saturn.",
-      "difficulty": 2
+      "question": "4+3",
+      "answer": "7"
     },
 
     {
-      "question": "Who sings \"Can't touch this\"?",
-      "answer": "MC Hammer.",
-      "difficulty": 2
+      "question": "4+4",
+      "answer": "8"
     },
 
     {
-      "question": "Who wants to be a...",
-      "answer": "Millionare.",
-      "difficulty": 2
+      "question": "4+5",
+      "answer": "9"
     },
 
     {
-      "question": "How do people get up?",
-      "answer": "With great difficulty.",
-      "difficulty": 2
+      "question": "4+6",
+      "answer": "10"
     },
 
     {
-      "question": "Which country is the best?",
-      "answer": "USA.",
-      "difficulty": 2
+      "question": "5+1",
+      "answer": "6"
     },
  
     {
-      "question": "What does the fox say?",
-      "answer": "Ring-ding-ding-ding-dingeringeding!",
-      "difficulty": 3
+      "question": "5+2",
+      "answer": "7"
     },
 
     {
-      "question": "Who discovered North America first?",
-      "answer": "The Vikings.",
-      "difficulty": 3
+      "question": "5+3",
+      "answer": "8"
     },
 
     {
-      "question": "Can rastafarians drink coffee?",
-      "answer": "No.",
-      "difficulty": 3
+      "question": "5+4",
+      "answer": "9"
     },
 
     {
-      "question": "What does have three points?",
-      "answer": "A triangle.",
-      "difficulty": 1
+      "question": "5+5",
+      "answer": "1'"
     },
     
     {
-      "question": "What do students do?",
-      "answer": "Nothing.",
-      "difficulty": 1
+      "question": "6+1",
+      "answer": "7"
     },
     
     {
-      "question": "Which operating system has the most bugs?",
-      "answer": "Windows.",
-      "difficulty": 1
+      "question": "6+2",
+      "answer": "8"
     },
     
     {
-      "question": "From what are juices made?",
-      "answer": "From fruits.",
-      "difficulty": 1
+      "question": "6+3",
+      "answer": "9"
     },
    
     {
-      "question": "Which university is in Zagreb?",
-      "answer": "University of Zagreb.",
-      "difficulty": 1
+      "question": "6+4",
+      "answer": "10"
     },
 
     {
-      "question": "What do you use for calling people?",
-      "answer": "A telephone.",
-      "difficulty": 1
+      "question": "7+1",
+      "answer": "8"
     },
  
     {
-      "question": "What is round?",
-      "answer": "A circle.",
-      "difficulty": 2
+      "question": "7+2",
+      "answer": "9"
     },
 
     {
-      "question": "Who wants to live forever?",
-      "answer": "Nobody.",
-      "difficulty": 2
+      "question": "7+3",
+      "answer": "10"
+    },
+
+    {
+      "question": "8+1",
+      "answer": "9"
+    },
+
+    {
+      "question": "8+2",
+      "answer": "10"
+    },
+
+    {
+      "question": "9+1",
+      "answer": "10"
+    },
+
+    {
+      "question": "1 + 1",
+      "answer": "2."
+     },
+  
+    {
+      "question": "1+2",
+      "answer": "3"
+    },
+    
+    {
+      "question": "1+3",
+      "answer": "4"
+    },
+    
+    {
+      "question": "1+4",
+      "answer": "5"
+    },
+    
+    {
+      "question": "1+5",
+      "answer": "6"
+    },
+   
+    {
+      "question": "1+6",
+      "answer": "7"
+    },
+
+    {
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "2+1",
+      "answer": "3"
+    },
+
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+
+    {
+      "question": "2+3",
+      "answer": "5"
+    },
+
+    {
+      "question": "2+4",
+      "answer": "6"
+    },
+
+    {
+      "question": "2+5",
+      "answer": "7"
+    },
+
+    {
+      "question": "2+8",
+      "answer": "10"
+    },
+
+    {
+      "question": "3+1",
+      "answer": "4"
+    },
+
+    {
+      "question": "3+2",
+      "answer": "5"
+    },
+    
+    {
+      "question": "3+3",
+      "answer": "6"
+    },
+    
+    {
+      "question": "3+4",
+      "answer": "7"
+    },
+    
+    {
+      "question": "3+5",
+      "answer": "8"
+    },
+   
+    {
+      "question": "3+6",
+      "answer": "9"
+    },
+
+    {
+      "question": "3+7",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "4+1",
+      "answer": "5."
+    },
+
+    {
+      "question": "4+2",
+      "answer": "6"
+    },
+
+    {
+      "question": "4+3",
+      "answer": "7"
+    },
+
+    {
+      "question": "4+4",
+      "answer": "8"
+    },
+
+    {
+      "question": "4+5",
+      "answer": "9"
+    },
+
+    {
+      "question": "4+6",
+      "answer": "10"
+    },
+
+    {
+      "question": "5+1",
+      "answer": "6"
+    },
+ 
+    {
+      "question": "5+2",
+      "answer": "7"
+    },
+
+    {
+      "question": "5+3",
+      "answer": "8"
+    },
+
+    {
+      "question": "5+4",
+      "answer": "9"
+    },
+
+    {
+      "question": "5+5",
+      "answer": "1'"
+    },
+    
+    {
+      "question": "6+1",
+      "answer": "7"
+    },
+    
+    {
+      "question": "6+2",
+      "answer": "8"
+    },
+    
+    {
+      "question": "6+3",
+      "answer": "9"
+    },
+   
+    {
+      "question": "6+4",
+      "answer": "10"
+    },
+
+    {
+      "question": "7+1",
+      "answer": "8"
+    },
+ 
+    {
+      "question": "7+2",
+      "answer": "9"
+    },
+
+    {
+      "question": "7+3",
+      "answer": "10"
+    },
+
+    {
+      "question": "8+1",
+      "answer": "9"
+    },
+
+    {
+      "question": "8+2",
+      "answer": "10"
+    },
+
+    {
+      "question": "9+1",
+      "answer": "10"
+    },
+
+    {
+      "question": "1+1",
+      "answer": "2"
+    },
+  
+    {
+      "question": "1+2",
+      "answer": "3"
+    },
+    
+    {
+      "question": "1+3",
+      "answer": "4"
+    },
+    
+    {
+      "question": "1+4",
+      "answer": "5"
+    },
+    
+    {
+      "question": "1+5",
+      "answer": "6"
+    },
+   
+    {
+      "question": "1+6",
+      "answer": "7"
+    },
+
+    {
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "2+1",
+      "answer": "3"
+    },
+
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+
+    {
+      "question": "2+3",
+      "answer": "5"
+    },
+
+    {
+      "question": "2+4",
+      "answer": "6"
+    },
+
+    {
+      "question": "2+5",
+      "answer": "7"
+    },
+
+    {
+      "question": "2+8",
+      "answer": "10"
+    },
+
+    {
+      "question": "3+1",
+      "answer": "4"
+    },
+
+    {
+      "question": "3+2",
+      "answer": "5"
+    },
+    
+    {
+      "question": "3+3",
+      "answer": "6"
+    },
+    
+    {
+      "question": "3+4",
+      "answer": "7"
+    },
+    
+    {
+      "question": "3+5",
+      "answer": "8"
+    },
+   
+    {
+      "question": "3+6",
+      "answer": "9"
+    },
+
+    {
+      "question": "3+7",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "4+1",
+      "answer": "5."
+    },
+
+    {
+      "question": "4+2",
+      "answer": "6"
+    },
+
+    {
+      "question": "4+3",
+      "answer": "7"
+    },
+
+    {
+      "question": "4+4",
+      "answer": "8"
+    },
+
+    {
+      "question": "4+5",
+      "answer": "9"
+    },
+
+    {
+      "question": "4+6",
+      "answer": "10"
+    },
+
+    {
+      "question": "5+1",
+      "answer": "6"
+    },
+ 
+    {
+      "question": "5+2",
+      "answer": "7"
+    },
+
+    {
+      "question": "5+3",
+      "answer": "8"
+    },
+
+    {
+      "question": "5+4",
+      "answer": "9"
+    },
+
+    {
+      "question": "5+5",
+      "answer": "1'"
+    },
+    
+    {
+      "question": "6+1",
+      "answer": "7"
+    },
+    
+    {
+      "question": "6+2",
+      "answer": "8"
+    },
+    
+    {
+      "question": "6+3",
+      "answer": "9"
+    },
+   
+    {
+      "question": "6+4",
+      "answer": "10"
+    },
+
+    {
+      "question": "7+1",
+      "answer": "8"
+    },
+ 
+    {
+      "question": "7+2",
+      "answer": "9"
+    },
+
+    {
+      "question": "7+3",
+      "answer": "10"
+    },
+
+    {
+      "question": "8+1",
+      "answer": "9"
+    },
+
+    {
+      "question": "8+2",
+      "answer": "10"
+    },
+
+    {
+      "question": "9+1",
+      "answer": "10"
+    },
+
+     {
+      "question": "1 + 1",
+      "answer": "2."
+     },
+  
+    {
+      "question": "1+2",
+      "answer": "3"
+    },
+    
+    {
+      "question": "1+3",
+      "answer": "4"
+    },
+    
+    {
+      "question": "1+4",
+      "answer": "5"
+    },
+    
+    {
+      "question": "1+5",
+      "answer": "6"
+    },
+   
+    {
+      "question": "1+6",
+      "answer": "7"
+    },
+
+    {
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "2+1",
+      "answer": "3"
+    },
+
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+
+    {
+      "question": "2+3",
+      "answer": "5"
+    },
+
+    {
+      "question": "2+4",
+      "answer": "6"
+    },
+
+    {
+      "question": "2+5",
+      "answer": "7"
+    },
+
+    {
+      "question": "2+8",
+      "answer": "10"
+    },
+
+    {
+      "question": "3+1",
+      "answer": "4"
+    },
+
+    {
+      "question": "3+2",
+      "answer": "5"
+    },
+    
+    {
+      "question": "3+3",
+      "answer": "6"
+    },
+    
+    {
+      "question": "3+4",
+      "answer": "7"
+    },
+    
+    {
+      "question": "3+5",
+      "answer": "8"
+    },
+   
+    {
+      "question": "3+6",
+      "answer": "9"
+    },
+
+    {
+      "question": "3+7",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "4+1",
+      "answer": "5."
+    },
+
+    {
+      "question": "4+2",
+      "answer": "6"
+    },
+
+    {
+      "question": "4+3",
+      "answer": "7"
+    },
+
+    {
+      "question": "4+4",
+      "answer": "8"
+    },
+
+    {
+      "question": "4+5",
+      "answer": "9"
+    },
+
+    {
+      "question": "4+6",
+      "answer": "10"
+    },
+
+    {
+      "question": "5+1",
+      "answer": "6"
+    },
+ 
+    {
+      "question": "5+2",
+      "answer": "7"
+    },
+
+    {
+      "question": "5+3",
+      "answer": "8"
+    },
+
+    {
+      "question": "5+4",
+      "answer": "9"
+    },
+
+    {
+      "question": "5+5",
+      "answer": "1'"
+    },
+    
+    {
+      "question": "6+1",
+      "answer": "7"
+    },
+    
+    {
+      "question": "6+2",
+      "answer": "8"
+    },
+    
+    {
+      "question": "6+3",
+      "answer": "9"
+    },
+   
+    {
+      "question": "6+4",
+      "answer": "10"
+    },
+
+    {
+      "question": "7+1",
+      "answer": "8"
+    },
+ 
+    {
+      "question": "7+2",
+      "answer": "9"
+    },
+
+    {
+      "question": "7+3",
+      "answer": "10"
+    },
+
+    {
+      "question": "8+1",
+      "answer": "9"
+    },
+
+    {
+      "question": "8+2",
+      "answer": "10"
+    },
+
+    {
+      "question": "9+1",
+      "answer": "10"
+    },
+
+    {
+      "question": "1+1",
+      "answer": "2"
+    },
+  
+    {
+      "question": "1+2",
+      "answer": "3"
+    },
+    
+    {
+      "question": "1+3",
+      "answer": "4"
+    },
+    
+    {
+      "question": "1+4",
+      "answer": "5"
+    },
+    
+    {
+      "question": "1+5",
+      "answer": "6"
+    },
+   
+    {
+      "question": "1+6",
+      "answer": "7"
+    },
+
+    {
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "2+1",
+      "answer": "3"
+    },
+
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+
+    {
+      "question": "2+3",
+      "answer": "5"
+    },
+
+    {
+      "question": "2+4",
+      "answer": "6"
+    },
+
+    {
+      "question": "2+5",
+      "answer": "7"
+    },
+
+    {
+      "question": "2+8",
+      "answer": "10"
+    },
+
+    {
+      "question": "3+1",
+      "answer": "4"
+    },
+
+    {
+      "question": "3+2",
+      "answer": "5"
+    },
+    
+    {
+      "question": "3+3",
+      "answer": "6"
+    },
+    
+    {
+      "question": "3+4",
+      "answer": "7"
+    },
+    
+    {
+      "question": "3+5",
+      "answer": "8"
+    },
+   
+    {
+      "question": "3+6",
+      "answer": "9"
+    },
+
+    {
+      "question": "3+7",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "4+1",
+      "answer": "5."
+    },
+
+    {
+      "question": "4+2",
+      "answer": "6"
+    },
+
+    {
+      "question": "4+3",
+      "answer": "7"
+    },
+
+    {
+      "question": "4+4",
+      "answer": "8"
+    },
+
+    {
+      "question": "4+5",
+      "answer": "9"
+    },
+
+    {
+      "question": "4+6",
+      "answer": "10"
+    },
+
+    {
+      "question": "5+1",
+      "answer": "6"
+    },
+ 
+    {
+      "question": "5+2",
+      "answer": "7"
+    },
+
+    {
+      "question": "5+3",
+      "answer": "8"
+    },
+
+    {
+      "question": "5+4",
+      "answer": "9"
+    },
+
+    {
+      "question": "5+5",
+      "answer": "1'"
+    },
+    
+    {
+      "question": "6+1",
+      "answer": "7"
+    },
+    
+    {
+      "question": "6+2",
+      "answer": "8"
+    },
+    
+    {
+      "question": "6+3",
+      "answer": "9"
+    },
+   
+    {
+      "question": "6+4",
+      "answer": "10"
+    },
+
+    {
+      "question": "7+1",
+      "answer": "8"
+    },
+ 
+    {
+      "question": "7+2",
+      "answer": "9"
+    },
+
+    {
+      "question": "7+3",
+      "answer": "10"
+    },
+
+    {
+      "question": "8+1",
+      "answer": "9"
+    },
+
+    {
+      "question": "8+2",
+      "answer": "10"
+    },
+
+    {
+      "question": "9+1",
+      "answer": "10"
+    },
+
+    {
+      "question": "1 + 1",
+      "answer": "2."
+     },
+  
+    {
+      "question": "1+2",
+      "answer": "3"
+    },
+    
+    {
+      "question": "1+3",
+      "answer": "4"
+    },
+    
+    {
+      "question": "1+4",
+      "answer": "5"
+    },
+    
+    {
+      "question": "1+5",
+      "answer": "6"
+    },
+   
+    {
+      "question": "1+6",
+      "answer": "7"
+    },
+
+    {
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "2+1",
+      "answer": "3"
+    },
+
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+
+    {
+      "question": "2+3",
+      "answer": "5"
+    },
+
+    {
+      "question": "2+4",
+      "answer": "6"
+    },
+
+    {
+      "question": "2+5",
+      "answer": "7"
+    },
+
+    {
+      "question": "2+8",
+      "answer": "10"
+    },
+
+    {
+      "question": "3+1",
+      "answer": "4"
+    },
+
+    {
+      "question": "3+2",
+      "answer": "5"
+    },
+    
+    {
+      "question": "3+3",
+      "answer": "6"
+    },
+    
+    {
+      "question": "3+4",
+      "answer": "7"
+    },
+    
+    {
+      "question": "3+5",
+      "answer": "8"
+    },
+   
+    {
+      "question": "3+6",
+      "answer": "9"
+    },
+
+    {
+      "question": "3+7",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "4+1",
+      "answer": "5."
+    },
+
+    {
+      "question": "4+2",
+      "answer": "6"
+    },
+
+    {
+      "question": "4+3",
+      "answer": "7"
+    },
+
+    {
+      "question": "4+4",
+      "answer": "8"
+    },
+
+    {
+      "question": "4+5",
+      "answer": "9"
+    },
+
+    {
+      "question": "4+6",
+      "answer": "10"
+    },
+
+    {
+      "question": "5+1",
+      "answer": "6"
+    },
+ 
+    {
+      "question": "5+2",
+      "answer": "7"
+    },
+
+    {
+      "question": "5+3",
+      "answer": "8"
+    },
+
+    {
+      "question": "5+4",
+      "answer": "9"
+    },
+
+    {
+      "question": "5+5",
+      "answer": "1'"
+    },
+    
+    {
+      "question": "6+1",
+      "answer": "7"
+    },
+    
+    {
+      "question": "6+2",
+      "answer": "8"
+    },
+    
+    {
+      "question": "6+3",
+      "answer": "9"
+    },
+   
+    {
+      "question": "6+4",
+      "answer": "10"
+    },
+
+    {
+      "question": "7+1",
+      "answer": "8"
+    },
+ 
+    {
+      "question": "7+2",
+      "answer": "9"
+    },
+
+    {
+      "question": "7+3",
+      "answer": "10"
+    },
+
+    {
+      "question": "8+1",
+      "answer": "9"
+    },
+
+    {
+      "question": "8+2",
+      "answer": "10"
+    },
+
+    {
+      "question": "9+1",
+      "answer": "10"
+    },
+
+    {
+      "question": "1+1",
+      "answer": "2"
+    },
+  
+    {
+      "question": "1+2",
+      "answer": "3"
+    },
+    
+    {
+      "question": "1+3",
+      "answer": "4"
+    },
+    
+    {
+      "question": "1+4",
+      "answer": "5"
+    },
+    
+    {
+      "question": "1+5",
+      "answer": "6"
+    },
+   
+    {
+      "question": "1+6",
+      "answer": "7"
+    },
+
+    {
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "2+1",
+      "answer": "3"
+    },
+
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+
+    {
+      "question": "2+3",
+      "answer": "5"
+    },
+
+    {
+      "question": "2+4",
+      "answer": "6"
+    },
+
+    {
+      "question": "2+5",
+      "answer": "7"
+    },
+
+    {
+      "question": "2+8",
+      "answer": "10"
+    },
+
+    {
+      "question": "3+1",
+      "answer": "4"
+    },
+
+    {
+      "question": "3+2",
+      "answer": "5"
+    },
+    
+    {
+      "question": "3+3",
+      "answer": "6"
+    },
+    
+    {
+      "question": "3+4",
+      "answer": "7"
+    },
+    
+    {
+      "question": "3+5",
+      "answer": "8"
+    },
+   
+    {
+      "question": "3+6",
+      "answer": "9"
+    },
+
+    {
+      "question": "3+7",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "4+1",
+      "answer": "5."
+    },
+
+    {
+      "question": "4+2",
+      "answer": "6"
+    },
+
+    {
+      "question": "4+3",
+      "answer": "7"
+    },
+
+    {
+      "question": "4+4",
+      "answer": "8"
+    },
+
+    {
+      "question": "4+5",
+      "answer": "9"
+    },
+
+    {
+      "question": "4+6",
+      "answer": "10"
+    },
+
+    {
+      "question": "5+1",
+      "answer": "6"
+    },
+ 
+    {
+      "question": "5+2",
+      "answer": "7"
+    },
+
+    {
+      "question": "5+3",
+      "answer": "8"
+    },
+
+    {
+      "question": "5+4",
+      "answer": "9"
+    },
+
+    {
+      "question": "5+5",
+      "answer": "1'"
+    },
+    
+    {
+      "question": "6+1",
+      "answer": "7"
+    },
+    
+    {
+      "question": "6+2",
+      "answer": "8"
+    },
+    
+    {
+      "question": "6+3",
+      "answer": "9"
+    },
+   
+    {
+      "question": "6+4",
+      "answer": "10"
+    },
+
+    {
+      "question": "7+1",
+      "answer": "8"
+    },
+ 
+    {
+      "question": "7+2",
+      "answer": "9"
+    },
+
+    {
+      "question": "7+3",
+      "answer": "10"
+    },
+
+    {
+      "question": "8+1",
+      "answer": "9"
+    },
+
+    {
+      "question": "8+2",
+      "answer": "10"
+    },
+
+    {
+      "question": "9+1",
+      "answer": "10"
+    },
+
+     {
+      "question": "1 + 1",
+      "answer": "2."
+     },
+  
+    {
+      "question": "1+2",
+      "answer": "3"
+    },
+    
+    {
+      "question": "1+3",
+      "answer": "4"
+    },
+    
+    {
+      "question": "1+4",
+      "answer": "5"
+    },
+    
+    {
+      "question": "1+5",
+      "answer": "6"
+    },
+   
+    {
+      "question": "1+6",
+      "answer": "7"
+    },
+
+    {
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "2+1",
+      "answer": "3"
+    },
+
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+
+    {
+      "question": "2+3",
+      "answer": "5"
+    },
+
+    {
+      "question": "2+4",
+      "answer": "6"
+    },
+
+    {
+      "question": "2+5",
+      "answer": "7"
+    },
+
+    {
+      "question": "2+8",
+      "answer": "10"
+    },
+
+    {
+      "question": "3+1",
+      "answer": "4"
+    },
+
+    {
+      "question": "3+2",
+      "answer": "5"
+    },
+    
+    {
+      "question": "3+3",
+      "answer": "6"
+    },
+    
+    {
+      "question": "3+4",
+      "answer": "7"
+    },
+    
+    {
+      "question": "3+5",
+      "answer": "8"
+    },
+   
+    {
+      "question": "3+6",
+      "answer": "9"
+    },
+
+    {
+      "question": "3+7",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "4+1",
+      "answer": "5."
+    },
+
+    {
+      "question": "4+2",
+      "answer": "6"
+    },
+
+    {
+      "question": "4+3",
+      "answer": "7"
+    },
+
+    {
+      "question": "4+4",
+      "answer": "8"
+    },
+
+    {
+      "question": "4+5",
+      "answer": "9"
+    },
+
+    {
+      "question": "4+6",
+      "answer": "10"
+    },
+
+    {
+      "question": "5+1",
+      "answer": "6"
+    },
+ 
+    {
+      "question": "5+2",
+      "answer": "7"
+    },
+
+    {
+      "question": "5+3",
+      "answer": "8"
+    },
+
+    {
+      "question": "5+4",
+      "answer": "9"
+    },
+
+    {
+      "question": "5+5",
+      "answer": "1'"
+    },
+    
+    {
+      "question": "6+1",
+      "answer": "7"
+    },
+    
+    {
+      "question": "6+2",
+      "answer": "8"
+    },
+    
+    {
+      "question": "6+3",
+      "answer": "9"
+    },
+   
+    {
+      "question": "6+4",
+      "answer": "10"
+    },
+
+    {
+      "question": "7+1",
+      "answer": "8"
+    },
+ 
+    {
+      "question": "7+2",
+      "answer": "9"
+    },
+
+    {
+      "question": "7+3",
+      "answer": "10"
+    },
+
+    {
+      "question": "8+1",
+      "answer": "9"
+    },
+
+    {
+      "question": "8+2",
+      "answer": "10"
+    },
+
+    {
+      "question": "9+1",
+      "answer": "10"
+    },
+
+    {
+      "question": "1+1",
+      "answer": "2"
+    },
+  
+    {
+      "question": "1+2",
+      "answer": "3"
+    },
+    
+    {
+      "question": "1+3",
+      "answer": "4"
+    },
+    
+    {
+      "question": "1+4",
+      "answer": "5"
+    },
+    
+    {
+      "question": "1+5",
+      "answer": "6"
+    },
+   
+    {
+      "question": "1+6",
+      "answer": "7"
+    },
+
+    {
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "2+1",
+      "answer": "3"
+    },
+
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+
+    {
+      "question": "2+3",
+      "answer": "5"
+    },
+
+    {
+      "question": "2+4",
+      "answer": "6"
+    },
+
+    {
+      "question": "2+5",
+      "answer": "7"
+    },
+
+    {
+      "question": "2+8",
+      "answer": "10"
+    },
+
+    {
+      "question": "3+1",
+      "answer": "4"
+    },
+
+    {
+      "question": "3+2",
+      "answer": "5"
+    },
+    
+    {
+      "question": "3+3",
+      "answer": "6"
+    },
+    
+    {
+      "question": "3+4",
+      "answer": "7"
+    },
+    
+    {
+      "question": "3+5",
+      "answer": "8"
+    },
+   
+    {
+      "question": "3+6",
+      "answer": "9"
+    },
+
+    {
+      "question": "3+7",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "4+1",
+      "answer": "5."
+    },
+
+    {
+      "question": "4+2",
+      "answer": "6"
+    },
+
+    {
+      "question": "4+3",
+      "answer": "7"
+    },
+
+    {
+      "question": "4+4",
+      "answer": "8"
+    },
+
+    {
+      "question": "4+5",
+      "answer": "9"
+    },
+
+    {
+      "question": "4+6",
+      "answer": "10"
+    },
+
+    {
+      "question": "5+1",
+      "answer": "6"
+    },
+ 
+    {
+      "question": "5+2",
+      "answer": "7"
+    },
+
+    {
+      "question": "5+3",
+      "answer": "8"
+    },
+
+    {
+      "question": "5+4",
+      "answer": "9"
+    },
+
+    {
+      "question": "5+5",
+      "answer": "1'"
+    },
+    
+    {
+      "question": "6+1",
+      "answer": "7"
+    },
+    
+    {
+      "question": "6+2",
+      "answer": "8"
+    },
+    
+    {
+      "question": "6+3",
+      "answer": "9"
+    },
+   
+    {
+      "question": "6+4",
+      "answer": "10"
+    },
+
+    {
+      "question": "7+1",
+      "answer": "8"
+    },
+ 
+    {
+      "question": "7+2",
+      "answer": "9"
+    },
+
+    {
+      "question": "7+3",
+      "answer": "10"
+    },
+
+    {
+      "question": "8+1",
+      "answer": "9"
+    },
+
+    {
+      "question": "8+2",
+      "answer": "10"
+    },
+
+    {
+      "question": "9+1",
+      "answer": "10"
+    },
+
+    {
+      "question": "1 + 1",
+      "answer": "2."
+     },
+  
+    {
+      "question": "1+2",
+      "answer": "3"
+    },
+    
+    {
+      "question": "1+3",
+      "answer": "4"
+    },
+    
+    {
+      "question": "1+4",
+      "answer": "5"
+    },
+    
+    {
+      "question": "1+5",
+      "answer": "6"
+    },
+   
+    {
+      "question": "1+6",
+      "answer": "7"
+    },
+
+    {
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "2+1",
+      "answer": "3"
+    },
+
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+
+    {
+      "question": "2+3",
+      "answer": "5"
+    },
+
+    {
+      "question": "2+4",
+      "answer": "6"
+    },
+
+    {
+      "question": "2+5",
+      "answer": "7"
+    },
+
+    {
+      "question": "2+8",
+      "answer": "10"
+    },
+
+    {
+      "question": "3+1",
+      "answer": "4"
+    },
+
+    {
+      "question": "3+2",
+      "answer": "5"
+    },
+    
+    {
+      "question": "3+3",
+      "answer": "6"
+    },
+    
+    {
+      "question": "3+4",
+      "answer": "7"
+    },
+    
+    {
+      "question": "3+5",
+      "answer": "8"
+    },
+   
+    {
+      "question": "3+6",
+      "answer": "9"
+    },
+
+    {
+      "question": "3+7",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "4+1",
+      "answer": "5."
+    },
+
+    {
+      "question": "4+2",
+      "answer": "6"
+    },
+
+    {
+      "question": "4+3",
+      "answer": "7"
+    },
+
+    {
+      "question": "4+4",
+      "answer": "8"
+    },
+
+    {
+      "question": "4+5",
+      "answer": "9"
+    },
+
+    {
+      "question": "4+6",
+      "answer": "10"
+    },
+
+    {
+      "question": "5+1",
+      "answer": "6"
+    },
+ 
+    {
+      "question": "5+2",
+      "answer": "7"
+    },
+
+    {
+      "question": "5+3",
+      "answer": "8"
+    },
+
+    {
+      "question": "5+4",
+      "answer": "9"
+    },
+
+    {
+      "question": "5+5",
+      "answer": "1'"
+    },
+    
+    {
+      "question": "6+1",
+      "answer": "7"
+    },
+    
+    {
+      "question": "6+2",
+      "answer": "8"
+    },
+    
+    {
+      "question": "6+3",
+      "answer": "9"
+    },
+   
+    {
+      "question": "6+4",
+      "answer": "10"
+    },
+
+    {
+      "question": "7+1",
+      "answer": "8"
+    },
+ 
+    {
+      "question": "7+2",
+      "answer": "9"
+    },
+
+    {
+      "question": "7+3",
+      "answer": "10"
+    },
+
+    {
+      "question": "8+1",
+      "answer": "9"
+    },
+
+    {
+      "question": "8+2",
+      "answer": "10"
+    },
+
+    {
+      "question": "9+1",
+      "answer": "10"
+    },
+
+    {
+      "question": "1+1",
+      "answer": "2"
+    },
+  
+    {
+      "question": "1+2",
+      "answer": "3"
+    },
+    
+    {
+      "question": "1+3",
+      "answer": "4"
+    },
+    
+    {
+      "question": "1+4",
+      "answer": "5"
+    },
+    
+    {
+      "question": "1+5",
+      "answer": "6"
+    },
+   
+    {
+      "question": "1+6",
+      "answer": "7"
+    },
+
+    {
+      "question": "1+7",
+      "answer": "8"
+    },
+
+    {
+      "question": "1+8",
+      "answer": "9"
+    },
+
+    {
+      "question": "1+9",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "2+1",
+      "answer": "3"
+    },
+
+    {
+      "question": "2+2",
+      "answer": "4"
+    },
+
+    {
+      "question": "2+3",
+      "answer": "5"
+    },
+
+    {
+      "question": "2+4",
+      "answer": "6"
+    },
+
+    {
+      "question": "2+5",
+      "answer": "7"
+    },
+
+    {
+      "question": "2+8",
+      "answer": "10"
+    },
+
+    {
+      "question": "3+1",
+      "answer": "4"
+    },
+
+    {
+      "question": "3+2",
+      "answer": "5"
+    },
+    
+    {
+      "question": "3+3",
+      "answer": "6"
+    },
+    
+    {
+      "question": "3+4",
+      "answer": "7"
+    },
+    
+    {
+      "question": "3+5",
+      "answer": "8"
+    },
+   
+    {
+      "question": "3+6",
+      "answer": "9"
+    },
+
+    {
+      "question": "3+7",
+      "answer": "10"
+    },
+ 
+    {
+      "question": "4+1",
+      "answer": "5."
+    },
+
+    {
+      "question": "4+2",
+      "answer": "6"
+    },
+
+    {
+      "question": "4+3",
+      "answer": "7"
+    },
+
+    {
+      "question": "4+4",
+      "answer": "8"
+    },
+
+    {
+      "question": "4+5",
+      "answer": "9"
+    },
+
+    {
+      "question": "4+6",
+      "answer": "10"
+    },
+
+    {
+      "question": "5+1",
+      "answer": "6"
+    },
+ 
+    {
+      "question": "5+2",
+      "answer": "7"
+    },
+
+    {
+      "question": "5+3",
+      "answer": "8"
+    },
+
+    {
+      "question": "5+4",
+      "answer": "9"
+    },
+
+    {
+      "question": "5+5",
+      "answer": "1'"
+    },
+    
+    {
+      "question": "6+1",
+      "answer": "7"
+    },
+    
+    {
+      "question": "6+2",
+      "answer": "8"
+    },
+    
+    {
+      "question": "6+3",
+      "answer": "9"
+    },
+   
+    {
+      "question": "6+4",
+      "answer": "10"
+    },
+
+    {
+      "question": "7+1",
+      "answer": "8"
+    },
+ 
+    {
+      "question": "7+2",
+      "answer": "9"
+    },
+
+    {
+      "question": "7+3",
+      "answer": "10"
+    },
+
+    {
+      "question": "8+1",
+      "answer": "9"
+    },
+
+    {
+      "question": "8+2",
+      "answer": "10"
+    },
+
+    {
+      "question": "9+1",
+      "answer": "10"
     }
   ]
 }
+
+   
+
+    
