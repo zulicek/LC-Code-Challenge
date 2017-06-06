@@ -124,8 +124,6 @@ function removeButton(row,col){
 
 function makePlayers(){
 
-	console.log(numberOfPlayers);
-
   	 for (var i = 0; i < numberOfPlayers; i++){
   	 		players[i] = new Player(i);
   	 		players[i].addPlayerButton(i);
@@ -136,7 +134,7 @@ function addCube(){
 	var cubeButton = document.createElement('button');
 
 	cubeButton.setAttribute("id", "cubeButton");
-	cubeButton.innerHTML = "1";
+	cubeButton.setAttribute("class", "cubeButton1");
 
 	cubeButton.setAttribute('onclick','setNewPosition();'); // for FF
     cubeButton.onclick = function() {setNewPosition();};

@@ -1,2 +1,4 @@
 # LC-Code-Challenge
 fun learning game
+
+Ova aplikacija za učenje na zabavan način prvotno je namijenjena osnovnoškolskom obrazovanju, ali se može koristiti i u druge svrhe. Najprije traži da se unese broj igrača, a zatim je zamišljeno da se odabere razred, a potom i cjelina. Nakon toga pokreće se igra. Svaki igrač klikom na kocku dobiva mogućnost otključati polje na udaljenosti vrijednosti kocke (slučajnim odabirom brojeva u rasponu 1-6). Polje se otključava točnim odgovorom na ponuđeno pitanje. Ukoliko je polje već otključano, prelazi se na prvo sljedeće zaključano polje. Pobjednik je igrač s najviše otključanih polja. Otključano polje predstavljeno je bojom igrača.  

@@ -55,10 +55,11 @@ function getQuestion(buttonID) {
 
 //dok kliknem na kocku zove se ova funkcija
 function setNewPosition() {
+    cubeBefore = cubeNumber;
     cubeNumber = getRandom(1,6);
 
     var cubeButton = document.getElementById("cubeButton");
-    cubeButton.innerHTML = cubeNumber;
+    $(cubeButton).removeClass("cubeButton"+cubeBefore).addClass("cubeButton"+cubeNumber);
 
     findNewPosition(players[turn].positionRow, players[turn].positionColumn);
 
