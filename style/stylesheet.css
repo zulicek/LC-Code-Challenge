@@ -28,7 +28,8 @@
     .board {
         width: 90%;
         height: 100%;
-        background-image: url('../assets/images/background.png')
+        background-size: cover;
+        background-image: url('../assets/images/background2.jpg');
     }
     
 
@@ -70,7 +71,7 @@
     height:60px;
     margin-right:5px; 
     margin-bottom:5px;
-    background-color:#86b9ff;
+    background-color:#ccd8ff;
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: contain;
@@ -90,6 +91,10 @@
 .btn-footer {
     margin-right:20px; 
     margin-left:20px;
+}
+
+#myModal {
+    top:20%;
 }
 
 .modal-body{
@@ -125,30 +130,32 @@
     -o-background-size: contain;
     background-size: contain;
     font-size: 35px;
+    border-radius: 15%;
 }
 
 .cubeButton1 {
-    background-image:url('../assets/images/1.png');
+    background-image:url('../assets/images/dice1.png');
 }
 
 .cubeButton2 {
-    background-image:url('../assets/images/2.png');
+    background-image:url('../assets/images/dice2.png');
 }
 
 .cubeButton3 {
-    background-image:url('../assets/images/3.png');
+    background-image:url('../assets/images/dice3.png');
 }
 
 .cubeButton4 {
-    background-image:url('../assets/images/4.png');
+    background-image:url('../assets/images/dice4.png');
 }
 
 .cubeButton5 {
-    background-image:url('../assets/images/5.png');
+    background-image:url('../assets/images/dice5.png');
 }
 
 .cubeButton6 {
-    background-image:url('../assets/images/6.png');
+    background-size: cover;
+    background-image:url('../assets/images/dice6.png');
 }
 
 
